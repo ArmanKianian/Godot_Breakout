@@ -12,6 +12,6 @@
 - **SPACE** (Start: Start round)
 - **ESC** (Restart: Restart Game)
 - **A** or **LEFT_ARROW** (Paddle Left Movement)
-- **S** or **RIGHT_ARROW** (Paddle Right Movement)
+- **D** or **RIGHT_ARROW** (Paddle Right Movement)
 
 ### Good luck - Have fun

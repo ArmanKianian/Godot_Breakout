@@ -1,3 +1,4 @@
+![Breakout](https://github.com/ArmanKianian/Godot_Breakout/blob/main/Breakout.png)
 # Godot_Breakout
  A Classic Breakout clone made with Godot 4.
 
